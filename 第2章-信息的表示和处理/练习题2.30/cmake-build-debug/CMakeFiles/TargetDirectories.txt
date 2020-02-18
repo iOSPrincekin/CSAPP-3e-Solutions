@@ -1,3 +1,0 @@
-/Users/lee/Desktop/Computer systems_A Programmer's Perspective/第2章-信息的表示和处理/练习题2.30/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lee/Desktop/Computer systems_A Programmer's Perspective/第2章-信息的表示和处理/练习题2.30/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lee/Desktop/Computer systems_A Programmer's Perspective/第2章-信息的表示和处理/练习题2.30/cmake-build-debug/CMakeFiles/untitled.dir
