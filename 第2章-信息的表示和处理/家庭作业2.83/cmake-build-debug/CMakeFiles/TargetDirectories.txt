@@ -1,0 +1,3 @@
+/Users/lee/Desktop/Computer systems_A Programmer's Perspective/第2章-信息的表示和处理/家庭作业2.83/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lee/Desktop/Computer systems_A Programmer's Perspective/第2章-信息的表示和处理/家庭作业2.83/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lee/Desktop/Computer systems_A Programmer's Perspective/第2章-信息的表示和处理/家庭作业2.83/cmake-build-debug/CMakeFiles/2_83.dir

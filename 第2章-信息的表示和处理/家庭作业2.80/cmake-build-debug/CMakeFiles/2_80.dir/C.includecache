@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lee/Desktop/Computer systems_A Programmer's Perspective/第2章-信息的表示和处理/家庭作业2.80/main.c
+stdio.h
+-
+limits.h
+-
+assert.h
+-
+

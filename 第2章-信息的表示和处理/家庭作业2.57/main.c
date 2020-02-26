@@ -16,6 +16,7 @@ void show_short(short x)
     show_bytes((byte_pointer)&x, sizeof(short));
 }
 void show_int(int x)
+
 {
     printf("int类型的字长是----%d\n", sizeof(int));
     show_bytes((byte_pointer)&x, sizeof(int));
